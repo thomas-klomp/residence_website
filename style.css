@@ -1,6 +1,6 @@
 body{
-	background-color: whitesmoke;
-	font-family:  "lato";
+background-color: whitesmoke;
+font-family:  "lato";
 }
 
 #test{
@@ -44,7 +44,9 @@ top: 450px;
 text-align: center;
 padding: 10px 10px;
 box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
-#rectangle
+}
+	
+#rectangle{
 position: midtop;
 left: 0%;
 right: 0%;
@@ -54,12 +56,12 @@ background: #C5A24E
 }
 
 .card-white{
-	background-color: white;
-	padding: 40px;
-	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
-	border-radius: 4px;
-	margin: 20px 0px;
-	text-align:  left;
+background-color: white;
+padding: 40px;
+box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+border-radius: 4px;
+margin: 20px 0px;
+text-align:  left;
 }
 
 #houses {
