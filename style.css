@@ -1,0 +1,153 @@
+body{
+	background-color: whitesmoke;
+	font-family:  "lato";
+}
+
+#test{
+position: midtop;
+width: 858px;
+height: 281px;
+left: 468px;
+top: 1171px;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 250%;
+display: flex;
+letter-spacing: 0.15em;
+color: #000000
+}
+
+#button{
+position: midtop;
+width: 131px;
+height: 38px;
+left: 1243px;
+top: 93px;
+border: 1px solid #C5A24E;
+box-sizing: border-box;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+text-align: center;
+vertical-align: middle;
+padding: 10px 10px;
+}
+
+#button2{
+color: white;
+margin: 20px;
+border-radius: 10px;
+position: midtop;
+width: 93px;
+height: 30px;
+left: 886px;
+top: 450px;
+text-align: center;
+padding: 10px 10px;
+box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+#rectangle
+position: midtop;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+background: #C5A24E
+}
+
+.card-white{
+	background-color: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	border-radius: 4px;
+	margin: 20px 0px;
+	text-align:  left;
+}
+
+#houses {
+position: absolute;
+width: 114px;
+height: 30px;
+left: 313px;
+top: 106px;
+font-family: "lato";
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+color: black
+}
+
+#destinations {
+position: absolute;
+width: 123px;
+height: 30px;
+left: 457px;
+top: 106px;
+font-family: "lato";
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+color: black;
+}
+
+#about{
+position: absolute;
+width: 84px;
+height: 30px;
+left: 611px;
+top: 106px;
+font-family: "lato";
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+color: black	
+}
+
+#owners{
+position: absolute;
+width: 79px;
+height: 30px;
+left: 735px;
+top: 106px;
+font-family: "lato";
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+color: black;	
+}
+
+#events{
+position: absolute;
+width: 68px;
+height: 30px;
+left: 852px;
+top: 106px;
+font-family: "lato";
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+color: balck;
+}
+
+#logo{
+padding-bottom: 120px;
+position: top;
+width: 180px;
+height: 186px;
+left: 19px;
+top: 23px;
+}
+
+#villa{
+width: 250px;
+size: 400px;
+padding-top: 150px;
+padding-bottom: 100px;
+}
+
+#client{
+padding-bottom: 100px;
+}
